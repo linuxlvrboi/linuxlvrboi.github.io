@@ -1,0 +1,72 @@
+.logo {
+    width: 40px;
+}
+
+.navbar-nav .nav-link {
+    font-weight: 450;
+}
+
+a:active {
+    color: yellow;
+  }
+
+.btn {
+    font-weight: 500;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.btn-brand {
+    background-color: #19c971;
+}
+
+#intro {
+    background: linear-gradient(#ace1ae8f, #00000021), url(/assets/images/clouds.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.section-title {
+    margin-bottom: 40px;
+}
+
+.section-title p {
+    margin: auto;
+}
+
+.iconbox {
+    width: 60px;
+    height: 60px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: #C6EBC5;
+    color:#1A4D2E;
+    font-size: 27px;
+}
+
+.pyöreä {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.varjostus {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.varjostus-vihreä {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.411);
+    background-color: #19c9303d;
+}
+
+.varjostus-vihreä2 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.411);
+    background-image: linear-gradient(to bottom right,rgba(32, 141, 41, 0.452), rgba(1, 70, 27, 0.575));
+}
+
+#tietoa {
+    background: url(/assets/images/tausta1.jpg);
+    background-position: center;
+    background-size: cover;
+}
